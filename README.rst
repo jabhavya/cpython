@@ -50,7 +50,7 @@ see the `Developer Guide`_.
 Using Python
 ------------
 
-Installable Python kits, and information about using Python, are available at
+Installable Python kits and information about using Python, are available at
 `python.org`_.
 
 .. _python.org: https://www.python.org/
